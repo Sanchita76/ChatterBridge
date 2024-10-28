@@ -7,4 +7,5 @@ Deploy it https://sanchita76.github.io/Language-Translator-App-in-HTML-CSS-JavaS
 
 The Environment looks like 
 
-![image](https://github.com/user-attachments/assets/f43e94d8-aae5-401f-a38c-d10cf1a62bb1)
+![image](https://github.com/user-attachments/assets/800dba7e-77ec-4826-9181-52543eecc08b)
+
