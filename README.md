@@ -37,7 +37,7 @@ To deploy on your own:
 - Ensure API keys (if required) are correctly configured
 
 ## Screenshots 
-![image](https://github.com/user-attachments/assets/96686cf5-bfeb-4aa8-aa49-3dbbe6e3d65c)
+![image](https://github.com/user-attachments/assets/6f7f1c76-d41a-416b-a81b-8f20be383a08)
 
 ## 👨‍💻 Contributing
 Contributions are welcome! Follow these steps to contribute:
